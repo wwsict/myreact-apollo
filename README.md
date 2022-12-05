@@ -1,12 +1,13 @@
 ### Graphql စမ်းရင်းနဲ့ react နဲ့ implment လုပ်ထားတာပါ။
 ### ပြောရမယ်ဆိုရင် graphql ရဲ့ flow ကို နားလည်သွားတယ်ဆိုပေမယ့်
 ### code အပိုင်းမှာဆိုရင် copy / paste တွေလုပ်လိုက်ရတဲ့ logic တချို့လဲရှိခဲ့ပါတယ်။
+### first time အနေနဲ့တော့ nice try ဖြစ်ခဲ့ပါတယ်။
 
 ### reference link ပါ။
 -----------------------
 https://www.howtographql.com/react-apollo/0-introduction/
 =======================
-first time အနေနဲ့တော့ nice try ဖြစ်ခဲ့ပါတယ်။
+
 
 
 run ရန် အညွှန်း 
