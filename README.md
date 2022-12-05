@@ -6,7 +6,7 @@ reference link ပါ။
 https://www.howtographql.com/react-apollo/0-introduction/
 
 first time အနေနဲ့တော့ nice try ဖြစ်ခဲ့ပါတယ်။
-##########################################
+
 
 run ရန် အညွှန်း 
 ------------
